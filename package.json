@@ -1,0 +1,18 @@
+{
+  "name": "api_forex",
+  "version": "1.0.0",
+  "description": "Esto consume una api con las cotizacion del forex",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Cotizacion",
+    "Forex"
+  ],
+  "author": "Carlos Montano R",
+  "license": "ISC"
+}
